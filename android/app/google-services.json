@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "256965551947",
+    "project_id": "skillcollab-e9399",
+    "storage_bucket": "skillcollab-e9399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256965551947:android:6a904d2a10b31cc96a6ace",
+        "android_client_info": {
+          "package_name": "com.app.skillcollab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256965551947-2olsl5ofmis0rf206g7pseimpmaum033.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.skillcollab",
+            "certificate_hash": "833e024174ad2c45976d313faf4b7dcb9d070b22"
+          }
+        },
+        {
+          "client_id": "256965551947-mm0l1qseaicckqjp824fvm2i2tv26cll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.skillcollab",
+            "certificate_hash": "b5d49d5d34b9d8cfc681b97df7c4e1a0dbfd13df"
+          }
+        },
+        {
+          "client_id": "256965551947-s8c8bukd1rhgpo535fe2jfpv9mf7bhk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.skillcollab",
+            "certificate_hash": "d03bbe2030c207b20b7e44fdcda75454c5657a68"
+          }
+        },
+        {
+          "client_id": "256965551947-b5rancpvnc5k2j907fm51nsfvsfvonps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHR4SDowQwUrn4Z1Ys0e9DXBhJpQIWCUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256965551947-b5rancpvnc5k2j907fm51nsfvsfvonps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256965551947-906lffn9vv92vjqddj3q3526tm6herkv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.skillcollab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
